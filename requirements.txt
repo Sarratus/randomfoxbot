@@ -1,5 +1,5 @@
 aiogram==2.9.2
-aiohttp==3.6.2
+aiohttp==3.7.4
 Pillow==7.2.0
 pymorphy2==0.8
 qrcode==6.1
